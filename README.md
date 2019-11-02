@@ -1,7 +1,8 @@
 # helm-ag.el
 
-[![travis badge][travis-badge]][travis-link] [![melpa badge][melpa-badge]][melpa-link] [![melpa stable badge][melpa-stable-badge]][melpa-stable-link]
+The original hem-ag at https://github.com/syohex/emacs-helm-ag has become stale.
 
+I forked it to apply some good PRs
 
 ## Introduction
 
